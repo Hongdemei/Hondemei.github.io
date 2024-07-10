@@ -5,5 +5,5 @@ _site
 .obsidian
 Gemfile.lock
 templates
-_pipeline.md
+Guideline.md
 vendor
